@@ -9,15 +9,26 @@
 
 ## CONDA
 ```
-Lo strumento principale è Conda, il gestore di pacchetti open source per Python. Conda permette di creare ambienti virtuali indipendenti l'uno dall'altro, in modo da poter installare e gestire diverse versioni di librerie e pacchetti senza che questi entrino in conflitto tra loro. Si tratta di uno strumento molto popolare soprattutto nella comunità scientifica e di analisi dei dati perché semplifica la gestione di progetti complessi.
+Lo strumento principale è Conda, il gestore di pacchetti open source per Python.
+Conda permette di creare ambienti virtuali indipendenti l'uno dall'altro, in modo
+da poter installare e gestire diverse versioni di librerie e pacchetti senza che 
+questi entrino in conflitto tra loro. Si tratta di uno strumento molto popolare 
+soprattutto nella comunità scientifica e di analisi dei dati perché semplifica 
+la gestione di progetti complessi.
 ```
 ## NAVIGATOR
 ```
-Ci permette di gestire tutti gli aspetti della piattaforma, semplificando il ulteriormente il processo di personalizzazione della distro.
+Ci permette di gestire tutti gli aspetti della piattaforma, semplificando 
+il ulteriormente il processo di personalizzazione della distro.
 ```
 ## PROMPT
 ```
-Oltre alla possibilità di utilizzare Conda sulle shell di sistema, la distribuzione di Anaconda fornisce anche un’interfaccia a riga di comando dedicata, chiamata Anaconda Prompt, disponibile per Windows e per Linux.
+Oltre alla possibilità di utilizzare Conda sulle shell di sistema, la distribuzione 
+di Anaconda fornisce anche un’interfaccia a riga di comando dedicata, chiamata 
+Anaconda Prompt, disponibile per Windows e per Linux.
 
-Con Anaconda Prompt è possibile gestire gli ambienti virtuali, crearne di nuovi, attivarli e disattivarli, installare e aggiornare librerie e molto altro. Permette anche un accesso rapido ai comandi di sistema, come la navigazione tra cartelle, la creazione di file e l'esecuzione di script.
+Con Anaconda Prompt è possibile gestire gli ambienti virtuali, crearne di nuovi, 
+attivarli e disattivarli, installare e aggiornare librerie e molto altro. 
+Permette anche un accesso rapido ai comandi di sistema, come la navigazione 
+tra cartelle, la creazione di file e l'esecuzione di script.
 ```
