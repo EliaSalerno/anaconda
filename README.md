@@ -35,3 +35,21 @@ tra cartelle, la creazione di file e l'esecuzione di script.
 ## LINK UTILE
 
 [Come distribuire un pacchetto python](https://alessandromasciadri.com/come-creare-e-distribuire-un-pacchetto-python/)	
+
+## COMANDI UTILI:
+### - creare un ambiente virtuale
+```
+conda create --name name_environment
+```
+### - creare un ambiente virtuale con i pacchetti inclusi
+```
+conda create --name name_environment pacchetto1 pacchetto2 ... pacchetton
+```
+### - attivare un ambiente virtuale
+```
+conda activate name_environment
+```
+### - installare un pacchetto nell'ambiente attivato
+```
+conda install pacchetto
+```
