@@ -36,7 +36,7 @@ tra cartelle, la creazione di file e l'esecuzione di script.
 
 [Come distribuire un pacchetto python](https://alessandromasciadri.com/come-creare-e-distribuire-un-pacchetto-python/)	
 
-## COMANDI UTILI:
+## COMANDI UTILI ANACONDA PROMPT:
 ### - creare un ambiente virtuale
 ```
 conda create --name name_environment
@@ -52,4 +52,12 @@ conda activate name_environment
 ### - installare un pacchetto nell'ambiente attivato
 ```
 conda install pacchetto
+```
+### - disattivare un ambiente virtuale 
+```
+conda deactivate name_environment
+```
+### - visualizzare la versione di conda
+```
+conda -V
 ```
