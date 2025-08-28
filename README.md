@@ -31,3 +31,7 @@ Con Anaconda Prompt è possibile gestire gli ambienti virtuali, crearne di nuovi
 attivarli e disattivarli, installare e aggiornare librerie e molto altro. 
 Permette anche un accesso rapido ai comandi di sistema, come la navigazione 
 tra cartelle, la creazione di file e l'esecuzione di script.
+
+## LINK UTILE
+
+[Come distribuire un pacchetto python](https://alessandromasciadri.com/come-creare-e-distribuire-un-pacchetto-python/)	
