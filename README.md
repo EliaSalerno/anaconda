@@ -61,3 +61,11 @@ conda deactivate name_environment
 ```
 conda -V
 ```
+### - listare gli ambienti virtuali presenti (quello attivo compare con un asterisco davanti)
+```
+conda env list
+```
+### - listare i pacchetti installati nell'ambiente virtuale
+```
+conda list
+```
